@@ -43,5 +43,5 @@
 - Work abroad ('21-'22):  Chicago, illinois, US
 - Student Research ('18-'20):  Information Security Lab, Department of Computer Engineering, Chosun Univ.
 - Work
-  1. '21.5. ~ '23.8.:  PMX. Inc, AI Engineering & Reseaching Team, Seoul/Chicago
-  2. '23.9. ~ : DEEPNOID. Inc, AI Research Team 2, AI R&D Centre, Seoul
+  1. '21.5. ~ '23.8.:  PMX. Inc, AI Engineering & Reseaching Team, {Seoul, KR / Chicago, Illinois, US}
+  2. '23.9. ~ : DEEPNOID. Inc, Computational Pathology, AI Research Lab., Seoul, KR
